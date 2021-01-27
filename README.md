@@ -10,14 +10,19 @@ A collection of awesome ethical hacking security related content!
   - [Web Security](#web-security)
   - [Cryptography](#cryptography)
   - [Operational Security](#operational-security)
+  - [Hardware Security](#hardware-security)
 
 ---
 
 ### General Security
 
+(Work in Progress)
+
 ### Infrastructure Security
 
 ##### Linux Basics
+
+**Learning**
 
 - [Nullbyte Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/) Learn linux-basics by reading these awesome articles which includes command-line basics to all the way over to linux boot process
 - Linux Fundamentals series by [Tryhackme](https://tryhackme.com/)
@@ -27,16 +32,44 @@ A collection of awesome ethical hacking security related content!
 - [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/) and [linux Basics](https://ryanstutorials.net/linuxtutorial/) Learn basic shell scripting and some more linux commands
 - [Regular Expressions](https://tryhackme.com/room/catregex) Learn how to use regular expressoins
 - [Linux Find Command](https://tryhackme.com/room/thefindcommand) Tryhackme room to learn linux find command
+  <br />
+
+**Test your learning**
+
 - [Overthewire: Bandit](https://overthewire.org/wargames/bandit/) Test all that you have learnt so far by completing these Linux challenges
+
+#### Networking Fundamentals
+
+- [Introductory Networking] Room by Tryhackme, to learn about the basics of networking
+-
+
+#### Infrastructure Hacking
+
+- [Nmap Basics](https://tryhackme.com/room/furthernmap) Learn how to do various typesof scans and how to use nmap scripting engine using nmap.
+- [Directory Enumeration]()
+- [Metasploit] Learn how to launch an exploit and get a shell using metasploit
+- [Hydra](https://tryhackme.com/room/hydra) Learn a versatile logon cracker
 
 ### Communication Security
 
+(Work in Progress)
+
 ### Wireless Security
+
+(Work in Progress)
 
 ### Web Security
 
+(Work in Progress)
+
 ### Cryptography
+
+(Work in Progress)
 
 ### Operational Security
 
+(Work in Progress)
+
 ### Hardware Security
+
+(Work in Progress)
