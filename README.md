@@ -12,6 +12,10 @@ A collection of awesome ethical hacking security related content!
   - [Operational Security](#operational-security)
   - [Hardware Security](#hardware-security)
 
+### How to get most out of this Repo ?
+
+Each Section has a **Learning** and a **Test Your Knowledge** path, and if you follow the **learning** path in the order that is listed, then you shall be able to solve the challenges in the **Test your knowledge** path.
+
 ---
 
 ### General Security
@@ -24,7 +28,7 @@ A collection of awesome ethical hacking security related content!
 
 ##### Linux Basics
 
-`Learning`
+> Learning
 
 - [Nullbyte Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/) Learn linux-basics by reading these awesome articles which includes command-line basics to all the way over to linux boot process
 - Linux Fundamentals series by [Tryhackme](https://tryhackme.com/)
@@ -36,15 +40,19 @@ A collection of awesome ethical hacking security related content!
 - [Linux Find Command](https://tryhackme.com/room/thefindcommand) Tryhackme room to learn linux find command
   <br />
 
-`Test your knowledge`
+> Test your knowledge
 
 - [Overthewire: Bandit](https://overthewire.org/wargames/bandit/) Test all that you have learnt so far by completing these Linux challenges
 
 #### Networking Fundamentals
 
+> Learning
+
 - [Introductory Networking](https://tryhackme.com/room/introtonetworking) Room by Tryhackme, to learn about the basics of networking
 
 #### Infrastructure Hacking
+
+> Learning
 
 - [Nmap Basics](https://tryhackme.com/room/furthernmap) Learn how to do various typesof scans and how to use nmap scripting engine using nmap.
 - [Directory Enumeration]()
