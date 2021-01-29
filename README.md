@@ -95,6 +95,16 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 - [Malware Unicorn](https://malwareunicorn.org/#/) Learn basics of reverse engineering with hands-on workshop
   - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0) Learn basics of Windows PE program, x86 assembly language and some reverse engineering tools
   - [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0) Learn Anti Reverse Engineering techniques including encrytion, VM evasion and Packing.
+- [Bartosz Wójcik](https://www.pelock.com) Reverse engineering, antidebugging, polymorphic encryption, assembly programming,  malware analysis
+  - [Reverse engineering tools review](https://www.pelock.com/articles/reverse-engineering-tools-review) Advantages and disadvantages, alternative solutions.
+  - [Windows Hot Patching Mechanism Explained](https://dev.to/pelock/windows-hot-patching-mechanism-explained-2m1f) Low-level technical analysis of Windows hot-patching feature.
+  - [Assembly code size optimization tricks](https://dev.to/pelock/assembly-code-size-optimization-tricks-2abd) How to make you shellcodes smaller?
+  - [How to write a CrackMe for a CTF competition](https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition) A tutorial of how to write a CTF crackme in C++.
+  - [Polymorphic Encryption Algorithms](https://www.pelock.com/articles/polymorphic-encryption-algorithms) A tutorial of how to write a polymorphic engine in C++ & assembly.
+  - [Anti reverse engineering. Malware vs Antivirus Software](https://www.pelock.com/articles/anti-reverse-engineering-malware-vs-antivirus-software) Techniques that make it difficult to reverse-engineer malware (malicious software).
+  - [DLL Libraries API Hooking](https://www.pelock.com/articles/intercepting-dll-libraries-calls-api-hooking-in-practice) Intercepting DLL libraries calls. API hooking in practice.
+  - [Assembly programming basics](https://www.pelock.com/articles/when-and-how-to-use-an-assembler-assembly-programming-basics) When and how to use an x86 assembler
+  - [Anti-cracking protections for programmers](https://www.pelock.com/articles/how-to-make-crackers-life-harder-anti-piracy-protections-for-programmers) How to make cracker's life harder.
 
 > Test You Knowledge
 
