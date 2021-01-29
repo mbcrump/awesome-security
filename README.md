@@ -1,5 +1,6 @@
 # Awesome Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Hi, this is Sarthak and I'm a lead maintainer of this project. For further questions or general security information catch me on Twitter at [smash8tap](https://twitter.com/smash8tap) or you can always find me in chat in [Michael's](https://www.twitch.tv/mbcrump) twitch stream.
 A collection of awesome ethical hacking security related content!
 
 - [Awesome Security](#awesome-security)
@@ -12,7 +13,7 @@ A collection of awesome ethical hacking security related content!
   - [Operational Security](#operational-security)
   - [Hardware Security](#hardware-security)
 
-### How to get most out of this Repo ?
+### How to get most out of this Repo?
 
 Each Section has a **Learning** and a **Test Your Knowledge** path, and if you follow the **learning** path in the order that is listed, then you shall be able to solve the challenges in the **Test your knowledge** path.
 
@@ -56,7 +57,7 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 
 - [Nmap Basics](https://tryhackme.com/room/furthernmap) Learn how to do various typesof scans and how to use nmap scripting engine using nmap.
 - [Directory Enumeration]()
-- [Metasploit] Learn how to launch an exploit and get a shell using metasploit
+- [Metasploit](https://tryhackme.com/room/rpmetasploit) Learn how to launch an exploit and get a shell using metasploit
 - [Hydra](https://tryhackme.com/room/hydra) Learn a versatile logon cracker
 
 ---
