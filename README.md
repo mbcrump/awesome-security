@@ -11,7 +11,7 @@ A collection of awesome ethical hacking security related content!
   - [Web Security](#web-security)
   - [Cryptography](#cryptography)
   - [Operational Security](#operational-security)
-  - [Hardware Security](#hardware-security)
+  - [Hardware Security and Binary Exploitation](#hardware-security)
 
 ### How to get most out of this Repo?
 
@@ -32,11 +32,12 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 > Learning
 
 - [Nullbyte Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/) Learn linux-basics by reading these awesome articles which includes command-line basics to all the way over to linux boot process
+- [Kali Linux Revealed](https://kali.training/lessons/introduction/) A free course by Offensive Security, which will teach you about kali and linux in general
 - Linux Fundamentals series by [Tryhackme](https://tryhackme.com/)
   - [Part1](https://tryhackme.com/room/linux1) Learn basic linux commands (man, ls, cat, touch, su)
   - [Part2](https://tryhackme.com/room/linux2) Learn linux file permissions and file operations (&, $, |, ;, >, >>)
   - [Part3](https://tryhackme.com/room/linux3) Learn useful shell commands (cp, find, grep, sudo, apt)
-- [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/) and [linux Basics](https://ryanstutorials.net/linuxtutorial/) Learn basic shell scripting and some more linux commands
+- [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/) and [linux Basics](https://ryanstutorials.net/linuxtutorial/) Learn basic shell scripting and some more useful linux commands
 - [Regular Expressions](https://tryhackme.com/room/catregex) Learn how to use regular expressoins
 - [Linux Find Command](https://tryhackme.com/room/thefindcommand) Tryhackme room to learn linux find command
   <br />
@@ -58,6 +59,8 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 - [Nmap Basics](https://tryhackme.com/room/furthernmap) Learn how to do various typesof scans and how to use nmap scripting engine using nmap.
 - [Directory Enumeration]()
 - [Metasploit](https://tryhackme.com/room/rpmetasploit) Learn how to launch an exploit and get a shell using metasploit
+- [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) A free course developed by Offensive Security, which teaches you everything you need to know about metasploit.
+
 - [Hydra](https://tryhackme.com/room/hydra) Learn a versatile logon cracker
 
 ---
@@ -82,6 +85,18 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 
 (Work in Progress)
 
-### Hardware Security
+### Hardware Security And Binary Exploitation
 
-(Work in Progress)
+> Learning
+
+- [Pwn college](https://pwn.college/) An in-depth and thorough lecture series by Arizona State University
+- [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) Learn the basics of 32-bit x86 Assembly programming.
+- [Nightmare's Binary Exploitation](https://guyinatuxedo.github.io/) An in-depth guide to learn the basics of reverse engineering and binary exploitation along with various tools like gdb, Ghidra, etc.
+- [Malware Unicorn](https://malwareunicorn.org/#/) Learn basics of reverse engineering with hands-on workshop
+  - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0) Learn basics of Windows PE program, x86 assembly language and some reverse engineering tools
+  - [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0) Learn Anti Reverse Engineering techniques including encrytion, VM evasion and Packing.
+
+> Test You Knowledge
+
+- [Micro Corruption CTF](https://microcorruption.com/login) Solve various challenges exploiting the code on MSP430 chip
+- [Exploit Education: Nebula](https://exploit.education/nebula/) Exploit common weaknessess like SUID files permissions, buffer overflows, $PATH weaknessess
