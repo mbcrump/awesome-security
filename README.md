@@ -1,6 +1,6 @@
 # Awesome Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Hi, this is Sarthak and I'm a lead maintainer of this project. For further questions or general security information catch me on Twitter at [smash8tap](https://twitter.com/smash8tap) or you can always find me in chat in [Michael's](https://www.twitch.tv/mbcrump) twitch stream.
+Hi, this is Sarthak and I'm a lead maintainer of this project. For further questions or general security information catch me on Twitter at [smash8tap](https://twitter.com/smash8tap) or you can always find me in the chat during [Michael's](https://www.twitch.tv/mbcrump) twitch stream.
 A collection of awesome ethical hacking security related content!
 
 - [Awesome Security](#awesome-security)
@@ -65,6 +65,40 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 
 ---
 
+### Hardware Security And Binary Exploitation
+
+> Learning
+
+- [Pwn college](https://pwn.college/) An in-depth and thorough lecture series by Arizona State University
+- [Nightmare's Binary Exploitation](https://guyinatuxedo.github.io/) An in-depth guide to learn the basics of reverse engineering and binary exploitation along with various tools like gdb, Ghidra, etc.
+- [Malware Unicorn](https://malwareunicorn.org/#/) Learn basics of reverse engineering with hands-on workshop
+  - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0) Learn basics of Windows PE program, x86 assembly language and some reverse engineering tools
+  * [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0) Learn Anti Reverse Engineering techniques including encrytion, VM evasion and Packing.
+- [Liveoverflow Binary Exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) An awesome Youtube playlist describing about Binary Exploitation and Memory Corruption.
+- [Radare2book](https://radare.gitbooks.io/radare2book/content/) Learn everything about the reverse engineering framework tool Radare2
+- [Nightmare Binary Exploitation Course](https://github.com/guyinatuxedo/nightmare) Learn basics of Binary exploitation and reverse engineering
+- [Bartosz Wójcik](https://www.pelock.com) Reverse engineering, antidebugging, polymorphic encryption, assembly programming, malware analysis
+  - [Reverse engineering tools review](https://www.pelock.com/articles/reverse-engineering-tools-review) Advantages and disadvantages, alternative solutions.
+  - [Windows Hot Patching Mechanism Explained](https://dev.to/pelock/windows-hot-patching-mechanism-explained-2m1f) Low-level technical analysis of Windows hot-patching feature.
+  - [Assembly code size optimization tricks](https://dev.to/pelock/assembly-code-size-optimization-tricks-2abd) How to make you shellcodes smaller?
+  - [How to write a CrackMe for a CTF competition](https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition) A tutorial of how to write a CTF crackme in C++.
+  - [Polymorphic Encryption Algorithms](https://www.pelock.com/articles/polymorphic-encryption-algorithms) A tutorial of how to write a polymorphic engine in C++ & assembly.
+  - [Anti reverse engineering. Malware vs Antivirus Software](https://www.pelock.com/articles/anti-reverse-engineering-malware-vs-antivirus-software) Techniques that make it difficult to reverse-engineer malware (malicious software).
+  - [DLL Libraries API Hooking](https://www.pelock.com/articles/intercepting-dll-libraries-calls-api-hooking-in-practice) Intercepting DLL libraries calls. API hooking in practice.
+  - [Assembly programming basics](https://www.pelock.com/articles/when-and-how-to-use-an-assembler-assembly-programming-basics) When and how to use an x86 assembler
+  - [Anti-cracking protections for programmers](https://www.pelock.com/articles/how-to-make-crackers-life-harder-anti-piracy-protections-for-programmers) How to make cracker's life harder.
+- [Linux System Call Table](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/) Useful when you are trying to write a shell code
+- [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) Learn the basics of 32-bit x86 Assembly programming.
+
+  > Test You Knowledge
+
+- [Pwn College](https://cse466.pwn.college/) CTF by Arizona State University
+- [Micro Corruption CTF](https://microcorruption.com/login) Solve various challenges exploiting the code on MSP430 chip
+- [Exploit Education: Nebula](https://exploit.education/nebula/) Exploit common weaknesses like SUID files permissions, buffer overflows, $PATH weaknesses
+- [ROP Emporium](https://ropemporium.com/) Learn return-oriented programming through a series of challenges
+
+---
+
 ### Communication Security
 
 (Work in Progress)
@@ -84,29 +118,3 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 ### Operational Security
 
 (Work in Progress)
-
-### Hardware Security And Binary Exploitation
-
-> Learning
-
-- [Pwn college](https://pwn.college/) An in-depth and thorough lecture series by Arizona State University
-- [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) Learn the basics of 32-bit x86 Assembly programming.
-- [Nightmare's Binary Exploitation](https://guyinatuxedo.github.io/) An in-depth guide to learn the basics of reverse engineering and binary exploitation along with various tools like gdb, Ghidra, etc.
-- [Malware Unicorn](https://malwareunicorn.org/#/) Learn basics of reverse engineering with hands-on workshop
-  - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0) Learn basics of Windows PE program, x86 assembly language and some reverse engineering tools
-  - [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0) Learn Anti Reverse Engineering techniques including encrytion, VM evasion and Packing.
-- [Bartosz Wójcik](https://www.pelock.com) Reverse engineering, antidebugging, polymorphic encryption, assembly programming,  malware analysis
-  - [Reverse engineering tools review](https://www.pelock.com/articles/reverse-engineering-tools-review) Advantages and disadvantages, alternative solutions.
-  - [Windows Hot Patching Mechanism Explained](https://dev.to/pelock/windows-hot-patching-mechanism-explained-2m1f) Low-level technical analysis of Windows hot-patching feature.
-  - [Assembly code size optimization tricks](https://dev.to/pelock/assembly-code-size-optimization-tricks-2abd) How to make you shellcodes smaller?
-  - [How to write a CrackMe for a CTF competition](https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition) A tutorial of how to write a CTF crackme in C++.
-  - [Polymorphic Encryption Algorithms](https://www.pelock.com/articles/polymorphic-encryption-algorithms) A tutorial of how to write a polymorphic engine in C++ & assembly.
-  - [Anti reverse engineering. Malware vs Antivirus Software](https://www.pelock.com/articles/anti-reverse-engineering-malware-vs-antivirus-software) Techniques that make it difficult to reverse-engineer malware (malicious software).
-  - [DLL Libraries API Hooking](https://www.pelock.com/articles/intercepting-dll-libraries-calls-api-hooking-in-practice) Intercepting DLL libraries calls. API hooking in practice.
-  - [Assembly programming basics](https://www.pelock.com/articles/when-and-how-to-use-an-assembler-assembly-programming-basics) When and how to use an x86 assembler
-  - [Anti-cracking protections for programmers](https://www.pelock.com/articles/how-to-make-crackers-life-harder-anti-piracy-protections-for-programmers) How to make cracker's life harder.
-
-> Test You Knowledge
-
-- [Micro Corruption CTF](https://microcorruption.com/login) Solve various challenges exploiting the code on MSP430 chip
-- [Exploit Education: Nebula](https://exploit.education/nebula/) Exploit common weaknessess like SUID files permissions, buffer overflows, $PATH weaknessess
