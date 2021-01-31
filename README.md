@@ -6,12 +6,12 @@ A collection of awesome ethical hacking security related content!
 - [Awesome Security](#awesome-security)
   - [General Security](#general-security)
   - [Infrastructure Security](#infrastructure-security)
+  - [Hardware Security and Binary Exploitation](#hardware-security-and-binary-exploitation)
   - [Communication Security](#communication-security)
   - [Wireless Security](#wireless-security)
   - [Web Security](#web-security)
   - [Cryptography](#cryptography)
   - [Operational Security](#operational-security)
-  - [Hardware Security and Binary Exploitation](#hardware-security)
 
 ### How to get most out of this Repo?
 
@@ -31,8 +31,6 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 
 > Learning
 
-- [Nullbyte Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/) Learn linux-basics by reading these awesome articles which includes command-line basics to all the way over to linux boot process
-- [Kali Linux Revealed](https://kali.training/lessons/introduction/) A free course by Offensive Security, which will teach you about kali and linux in general
 - Linux Fundamentals series by [Tryhackme](https://tryhackme.com/)
   - [Part1](https://tryhackme.com/room/linux1) Learn basic linux commands (man, ls, cat, touch, su)
   - [Part2](https://tryhackme.com/room/linux2) Learn linux file permissions and file operations (&, $, |, ;, >, >>)
@@ -40,6 +38,8 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 - [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/) and [linux Basics](https://ryanstutorials.net/linuxtutorial/) Learn basic shell scripting and some more useful linux commands
 - [Regular Expressions](https://tryhackme.com/room/catregex) Learn how to use regular expressoins
 - [Linux Find Command](https://tryhackme.com/room/thefindcommand) Tryhackme room to learn linux find command
+- [Nullbyte Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/) Learn linux-basics by reading these awesome articles which includes command-line basics to all the way over to linux boot process
+- [Kali Linux Revealed](https://kali.training/lessons/introduction/) A free course by Offensive Security, which will teach you about kali and linux in general
   <br />
 
 > Test your knowledge
@@ -56,12 +56,22 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 
 > Learning
 
-- [Nmap Basics](https://tryhackme.com/room/furthernmap) Learn how to do various typesof scans and how to use nmap scripting engine using nmap.
-- [Directory Enumeration]()
+- [Nmap Basics](https://tryhackme.com/room/furthernmap) Learn how to do various types of scans and how to use nmap's scripting engine
+- [Directory Enumeration](https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz) Learn how to perform web fuzzing with Wfuzz
+- [Ffuf](https://www.youtube.com/watch?v=iLFkxAmwXF0&t=936s) Learn how to use Fuff for web directory enumeration
 - [Metasploit](https://tryhackme.com/room/rpmetasploit) Learn how to launch an exploit and get a shell using metasploit
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) A free course developed by Offensive Security, which teaches you everything you need to know about metasploit.
-
+- [Password Cracking](https://null-byte.wonderhowto.com/how-to/password-cracking/) Learn basics of password-cracking with various tools like johntheripper, pyrit etc
 - [Hydra](https://tryhackme.com/room/hydra) Learn a versatile logon cracker
+- [INE Starter Pass](https://checkout.ine.com/starter-pass) Learn basics of Penetration testing with Elearn-Security's Junior Penetration testing path for free.
+
+> Test Your Knowledge
+
+- Tryhackme Rooms
+  - [Tryhackme: Crackthehash](https://tryhackme.com/room/crackthehash) Use your password-cracking skills to crack various hash types like md5, sha-512 etc
+  - [Tryhackme: Blue](https://tryhackme.com/room/blue) A walkthrough based room, where you hack into a vulnerable windows machine using metasploit
+  - [Tryhackme: Vulnversity](https://tryhackme.com/room/vulnversity) Use your recon and privilege escalation skill to hack into this machine
+  - [Tryhackme: Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) Perform a basic Pentest in a lab environment and sharpen your skills learnt so far
 
 ---
 
