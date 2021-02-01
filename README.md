@@ -25,9 +25,9 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 
 ---
 
-## Infrastructure Security
+## Infrastructure Security <img src="https://img.icons8.com/color/20/000000/kali-linux.png"/>
 
-##### Linux Basics
+##### Linux Basics <img src="https://img.icons8.com/nolan/16/linux--v2.png"/>
 
 > Learning
 
