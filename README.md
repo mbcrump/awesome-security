@@ -56,13 +56,17 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 
 > Learning
 
+(Linux Basics are required)
+
 - [Nmap Basics](https://tryhackme.com/room/furthernmap) Learn how to do various types of scans and how to use nmap's scripting engine
 - [Directory Enumeration](https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz) Learn how to perform web fuzzing with Wfuzz
 - [Ffuf](https://www.youtube.com/watch?v=iLFkxAmwXF0&t=936s) Learn how to use Fuff for web directory enumeration
 - [Metasploit](https://tryhackme.com/room/rpmetasploit) Learn how to launch an exploit and get a shell using metasploit
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) A free course developed by Offensive Security, which teaches you everything you need to know about metasploit.
-- [Password Cracking](https://null-byte.wonderhowto.com/how-to/password-cracking/) Learn basics of password-cracking with various tools like johntheripper, pyrit etc
-- [Hydra](https://tryhackme.com/room/hydra) Learn a versatile logon cracker
+- **Password Cracking**: Learn basics of password cracking
+  - [Hydra](https://tryhackme.com/room/hydra) Learn a versatile logon cracker
+  - [John and SSH](https://null-byte.wonderhowto.com/how-to/crack-ssh-private-key-passwords-with-john-ripper-0302810/) Crack Private SSH keys with Johntheripper
+  - [Brute force SSH](https://null-byte.wonderhowto.com/how-to/gain-ssh-access-servers-by-brute-forcing-credentials-0194263/) Learn how to brute force ssh credentials with nmap, hydra and metasploit
 - [INE Starter Pass](https://checkout.ine.com/starter-pass) Learn basics of Penetration testing with Elearn-Security's Junior Penetration testing path for free.
 
 > Test Your Knowledge
@@ -106,6 +110,7 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 - [Micro Corruption CTF](https://microcorruption.com/login) Solve various challenges exploiting the code on MSP430 chip
 - [Exploit Education: Nebula](https://exploit.education/nebula/) Exploit common weaknesses like SUID files permissions, buffer overflows, $PATH weaknesses
 - [ROP Emporium](https://ropemporium.com/) Learn return-oriented programming through a series of challenges
+- [Cyberdefenders RE101](https://cyberdefenders.org/labs/36) Binary Analysis challenges
 
 ---
 
