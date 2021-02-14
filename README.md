@@ -1,6 +1,7 @@
 # Awesome Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Hi, this is Sarthak and I'm a lead maintainer of this project. For further questions or general security information catch me on Twitter at [smash8tap](https://twitter.com/smash8tap) or you can always find me in the chat during [Michael's](https://www.twitch.tv/mbcrump) twitch stream.
+
 A collection of awesome ethical hacking security related content!
 
 - [Awesome Security](#awesome-security)
@@ -27,7 +28,7 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 
 ## Infrastructure Security <img src="https://img.icons8.com/color/20/000000/kali-linux.png"/>
 
-##### Linux Basics <img src="https://img.icons8.com/nolan/16/linux--v2.png"/>
+##### Linux Basics <img src="https://img.icons8.com/nolan/20/linux--v2.png"/>
 
 > Learning
 
@@ -35,6 +36,7 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
   - [Part1](https://tryhackme.com/room/linux1) Learn basic linux commands (man, ls, cat, touch, su)
   - [Part2](https://tryhackme.com/room/linux2) Learn linux file permissions and file operations (&, $, |, ;, >, >>)
   - [Part3](https://tryhackme.com/room/linux3) Learn useful shell commands (cp, find, grep, sudo, apt)
+- [Tryahackme: Bash Scripting](https://tryhackme.com/room/bashscripting) A walkthrough room to learn basics of Bash Scripting
 - [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/) and [linux Basics](https://ryanstutorials.net/linuxtutorial/) Learn basic shell scripting and some more useful linux commands
 - [Regular Expressions](https://tryhackme.com/room/catregex) Learn how to use regular expressoins
 - [Linux Find Command](https://tryhackme.com/room/thefindcommand) Tryhackme room to learn linux find command
@@ -45,8 +47,9 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 > Test your knowledge
 
 - [Overthewire: Bandit](https://overthewire.org/wargames/bandit/) Test all that you have learnt so far by completing these Linux challenges
+- [Tryhackme: Linux Modules](https://tryhackme.com/room/linuxmodules) Learn and test your linux command-line skills (tr, awk, xargs, etc)
 
-#### Networking Fundamentals
+#### Networking Fundamentals <img src="https://img.icons8.com/nolan/32/networking-manager.png"/>
 
 > Learning
 
@@ -68,6 +71,7 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
   - [John and SSH](https://null-byte.wonderhowto.com/how-to/crack-ssh-private-key-passwords-with-john-ripper-0302810/) Crack Private SSH keys with Johntheripper
   - [Brute force SSH](https://null-byte.wonderhowto.com/how-to/gain-ssh-access-servers-by-brute-forcing-credentials-0194263/) Learn how to brute force ssh credentials with nmap, hydra and metasploit
 - [INE Starter Pass](https://checkout.ine.com/starter-pass) Learn basics of Penetration testing with Elearn-Security's Junior Penetration testing path for free.
+- [Cheatsheet: Red Team](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets) An awesome cheatsheet to look for while on an actual pentest
 
 > Test Your Knowledge
 
@@ -76,6 +80,9 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
   - [Tryhackme: Blue](https://tryhackme.com/room/blue) A walkthrough based room, where you hack into a vulnerable windows machine using metasploit
   - [Tryhackme: Vulnversity](https://tryhackme.com/room/vulnversity) Use your recon and privilege escalation skill to hack into this machine
   - [Tryhackme: Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) Perform a basic Pentest in a lab environment and sharpen your skills learnt so far
+  - [Tryhackme: Linux Agency](https://tryhackme.com/room/linuxagency) Test your Linux understanding and basic privilege escalation techniques
+  - [Pentestit](https://lab.pentestit.ru/) Perform an actual Pentest and root the machine in this black-box pentesting labs
+- [Cyberseclabs](https://www.cyberseclabs.co.uk/labs/beginner-labs) Learn linux and windows exploitation in a lab environment
 
 ---
 
