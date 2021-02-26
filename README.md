@@ -90,12 +90,12 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 
 > Learning
 
-- [Pwn college](https://pwn.college/) An in-depth and thorough lecture series by Arizona State University
+- [Liveoverflow Binary Exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) An awesome Youtube playlist describing about Binary Exploitation and Memory Corruption.
 - [Nightmare's Binary Exploitation](https://guyinatuxedo.github.io/) An in-depth guide to learn the basics of reverse engineering and binary exploitation along with various tools like gdb, Ghidra, etc.
+- [Pwn college](https://pwn.college/) An in-depth and thorough lecture series by Arizona State University
 - [Malware Unicorn](https://malwareunicorn.org/#/) Learn basics of reverse engineering with hands-on workshop
   - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0) Learn basics of Windows PE program, x86 assembly language and some reverse engineering tools
   * [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0) Learn Anti Reverse Engineering techniques including encrytion, VM evasion and Packing.
-- [Liveoverflow Binary Exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) An awesome Youtube playlist describing about Binary Exploitation and Memory Corruption.
 - [Radare2book](https://radare.gitbooks.io/radare2book/content/) Learn everything about the reverse engineering framework tool Radare2
 - [Nightmare Binary Exploitation Course](https://github.com/guyinatuxedo/nightmare) Learn basics of Binary exploitation and reverse engineering
 - [Bartosz Wójcik](https://www.pelock.com) Reverse engineering, antidebugging, polymorphic encryption, assembly programming, malware analysis
