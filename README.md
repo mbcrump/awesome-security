@@ -111,6 +111,7 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
 - [Linux System Call Table](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/) Useful when you are trying to write a shell code
 - [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) Learn the basics of 32-bit x86 Assembly programming.
 - [Pwntools Tutorial](https://github.com/Gallopsled/pwntools-tutorial) Learn how to automate binary exploitation with pwntools
+- [Binexp tutorials](https://tc.gts3.org/cs6265/2019/tut/tut01-warmup1.html) Learn binary exploitation from following this awesome tutorials from Georgia Institute of Technology
 
   > Test You Knowledge
 
