@@ -36,7 +36,7 @@ Each Section has a **Learning** and a **Test Your Knowledge** path, and if you f
   - [Part1](https://tryhackme.com/room/linux1) Learn basic linux commands (man, ls, cat, touch, su)
   - [Part2](https://tryhackme.com/room/linux2) Learn linux file permissions and file operations (&, $, |, ;, >, >>)
   - [Part3](https://tryhackme.com/room/linux3) Learn useful shell commands (cp, find, grep, sudo, apt)
-- [Tryahackme: Bash Scripting](https://tryhackme.com/room/bashscripting) A walkthrough room to learn basics of Bash Scripting
+- [Tryhackme: Bash Scripting](https://tryhackme.com/room/bashscripting) A walkthrough room to learn basics of Bash Scripting
 - [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/) and [linux Basics](https://ryanstutorials.net/linuxtutorial/) Learn basic shell scripting and some more useful linux commands
 - [Regular Expressions](https://tryhackme.com/room/catregex) Learn how to use regular expressoins
 - [Linux Find Command](https://tryhackme.com/room/thefindcommand) Tryhackme room to learn linux find command
